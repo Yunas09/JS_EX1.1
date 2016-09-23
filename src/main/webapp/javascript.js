@@ -1,14 +1,14 @@
 /* global milliseconds, dateString, year, seconds, day, hours, minutes, month */
 
 var student={
-    studentName:"umo",
+    studentName:"Yunas",
     studentAge: 21,
     studentID: 001
 
 };
 console.log(student);
 
-var array=["umo", 21, student];
+var array=["Yunas", 21, student];
 console.log(array);
 
 function student2(Id, Name){
